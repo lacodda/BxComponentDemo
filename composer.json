@@ -1,0 +1,31 @@
+{
+    "name"             :"lacodda/bxcomponent-demo",
+    "description"      :"Demo components for CMS Bitrix",
+    "keywords"         :[
+        "bitrix",
+        "component",
+        "mvc"
+    ],
+    "type"             :"bitrix-component",
+    "license"          :"MIT",
+    "homepage"         :"https://github.com/Lacodda/BxComponentDemo",
+    "support"          :{
+        "issues":"https://github.com/Lacodda/BxComponentDemo/issues",
+        "source":"https://github.com/Lacodda/BxComponentDemo/"
+    },
+    "authors"          :[
+        {
+            "name" :"Kirill Lahtachev",
+            "email":"lahtachev@gmail.com"
+        }
+    ],
+    "require"          :{
+        "php"                :">=5.4",
+        "composer/installers":"~1",
+        "lacodda/bxcomponent":"dev-master",
+    },
+    "extra"            :{
+        "installer-name":"lacodda"
+    },
+    "minimum-stability":"dev"
+}
