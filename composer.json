@@ -22,7 +22,7 @@
     "require"          :{
         "php"                :">=5.4",
         "composer/installers":"~1",
-        "lacodda/bxcomponent":"dev-master",
+        "lacodda/bxcomponent":"dev-master"
     },
     "extra"            :{
         "installer-name":"lacodda"
